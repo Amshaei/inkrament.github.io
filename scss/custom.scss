@@ -1,0 +1,17 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "../node_modules/bootstrap/scss/functions.scss";
+
+
+
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+
+$bg-primary: #AB4967;
+$bg-back: #ceb1be;
+
+
+
+.bg-primary {
+    background-color: $bg-primary;
+}
